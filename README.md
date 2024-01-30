@@ -1,3 +1,11 @@
+# This is a fork!
+
+I'm just checking it out. If you want the real thing, it's by [Jasper Baes](https://github.com/jasperbaes) and it's [over here](https://github.com/jasperbaes/Microsoft-Cloud-Group-Analyzer): [Microsoft-Cloud-Group-Analyzer](https://github.com/jasperbaes/Microsoft-Cloud-Group-Analyzer)
+
+OK, back to the original README...
+
+----
+
 # Microsoft Cloud Group Analyzer
 
 Entra ID Groups are often used in multiple locations in your environment and used by multiple admins. Without continuously updating documentation or syncing with other admins, you’re all using groups blindly, potentially causing unintended security or user impact through changes in group memberships. Therefore, I've created this script.
